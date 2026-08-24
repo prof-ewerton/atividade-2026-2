@@ -16,4 +16,5 @@
 - José Severo de Abreu Junior
 - João Pedro Bento Severo
 - João Barreto Campello e Silva
+- Gustavo Vilela da Cruz
 - --------------------------------
