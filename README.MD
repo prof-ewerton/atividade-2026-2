@@ -1,14 +1,14 @@
 # ATIVIDADE 2026.2
-Mateus Montalvão Torres
-Maria Clara Pollini
+- Mateus Montalvão Torres
+- Maria Clara Pollini
 
-Lucas Albuquerque
+- Lucas Albuquerque
 - Ediene Gomes
-Natália dos Santos Nascimento
-Mateus Aguiar Bezerra de Freitas
+- Natália dos Santos Nascimento
+- Mateus Aguiar Bezerra de Freitas
 
-Jamili Martins de Oliveira
-Natália dos Santos Nascimento'
-Maria Carolina Cabral de Almeida
+- Jamili Martins de Oliveira
+- Natália dos Santos Nascimento'
+- Maria Carolina Cabral de Almeida
 - Carlos Eduardo Azevedo de Souza Filho
-André Felipe Alecrim
+- André Felipe Alecrim
