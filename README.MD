@@ -1,4 +1,5 @@
 # ATIVIDADE 2026.2
+
 - Murilo de Andrade Souza
 - Mateus Montalvão Torres
 - Maria Clara Pollini
@@ -19,3 +20,4 @@
 - Vinicyus Alves Pantaleão
 - Gustavo Vilela da Cruz
 - Letícia Guardiola de Abreus
+- João Marcelo Cruz Coelho
