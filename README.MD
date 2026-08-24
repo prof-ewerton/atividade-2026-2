@@ -13,3 +13,4 @@
 - André Felipe Alecrim
 - Paulo Samuel Queiroz de Brito
 - Daniel Bezerra de Oliveira
+- José Severo de Abreu Junior
