@@ -1,16 +1,15 @@
 # ATIVIDADE 2026.2
-Murilo de Andrade Souza
-Mateus Montalvão Torres
-Maria Clara Pollini
-
-Lucas Albuquerque
+- Murilo de Andrade Souza
+- Mateus Montalvão Torres
+- Maria Clara Pollini
+- Lucas Albuquerque
 - Ediene Gomes
-Natália dos Santos Nascimento
-Mateus Aguiar Bezerra de Freitas
-Jamili Martins de Oliveira
-Natália dos Santos Nascimento'
-Maria Carolina Cabral de Almeida
-Carlos Eduardo Azevedo de Souza Filho
-João Pedro Bento Severo
+- Natália dos Santos Nascimento
+- Mateus Aguiar Bezerra de Freitas
+- Jamili Martins de Oliveira
+- Natália dos Santos Nascimento'
+- Maria Carolina Cabral de Almeida
 - Carlos Eduardo Azevedo de Souza Filho
-André Felipe Alecrim
+- André Felipe Alecrim
+- Paulo Samuel Queiroz de Brito
+- Daniel Bezerra de Oliveira
