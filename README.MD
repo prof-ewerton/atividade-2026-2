@@ -2,6 +2,7 @@
 Mateus Montalvão Torres
 Maria Clara Pollini
 
+Lucas Albuquerque
 - Ediene Gomes
 Natália dos Santos Nascimento
 Mateus Aguiar Bezerra de Freitas
