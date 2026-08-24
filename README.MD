@@ -1,4 +1,5 @@
 # ATIVIDADE 2026.2
+- Murilo de Andrade Souza
 - Mateus Montalvão Torres
 - Maria Clara Pollini
 
