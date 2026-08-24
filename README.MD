@@ -13,3 +13,4 @@ Natália dos Santos Nascimento'
 Maria Carolina Cabral de Almeida
 - Carlos Eduardo Azevedo de Souza Filho
 André Felipe Alecrim
+- Daniel Bezerra de Oliveira
