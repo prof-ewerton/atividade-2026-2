@@ -1,4 +1,5 @@
 # ATIVIDADE 2026.2
+Mateus Aguiar Bezerra de Freitas
 
 Jamili Martins de Oliveira
 Natália dos Santos Nascimento
