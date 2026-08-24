@@ -1,4 +1,5 @@
 # ATIVIDADE 2026.2
+Maria Clara Pollini
 
 Lucas Albuquerque
 - Ediene Gomes
