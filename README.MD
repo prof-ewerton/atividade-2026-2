@@ -16,3 +16,4 @@
 - José Severo de Abreu Junior
 - João Pedro Bento Severo
 -João Barreto Campello e Silva
+- Vinicyus Alves Pantaleão
