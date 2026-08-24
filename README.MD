@@ -18,3 +18,4 @@
 - João Barreto Campello e Silva
 - Vinicyus Alves Pantaleão
 - Gustavo Vilela da Cruz
+- Letícia Guardiola de Abreus
