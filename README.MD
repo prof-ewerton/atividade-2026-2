@@ -1,6 +1,7 @@
 # ATIVIDADE 2026.2
 Maria Clara Pollini
 
+Lucas Albuquerque
 - Ediene Gomes
 Mateus
 Natália dos Santos Nascimento
