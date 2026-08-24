@@ -3,3 +3,4 @@
 Natália dos Santos Nascimento
 Mateus
 Maria Carolina Cabral de Almeida
+André Felipe Alecrim
