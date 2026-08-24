@@ -15,4 +15,5 @@
 - Daniel Bezerra de Oliveira
 - José Severo de Abreu Junior
 - João Pedro Bento Severo
--João Barreto Campello e Silva
+- João Barreto Campello e Silva
+- --------------------------------
