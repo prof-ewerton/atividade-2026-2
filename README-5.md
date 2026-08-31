@@ -1,2 +1,3 @@
 Mateus Montalvão Torres
-- André Felipe Alecrim
+João Pedro Bento Severo
+André Felipe Alecrim
