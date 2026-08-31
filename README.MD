@@ -4,12 +4,9 @@ Mateus Montalvão Torres
 João Barreto Campello e Silva
 João Marcelo Cruz Coelho
 Paulo Samuel Queiroz de Brito
-
 João Pedro Bento Severo
 Carlos Eduardo Azevedo de Souza Filho
-
 Daniel Bezerra de Oliveira
-
 Maria Carolina Cabral de Almeida
 
 
