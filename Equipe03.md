@@ -1,1 +1,2 @@
 - João Marcelo Cruz Coelho
+- Letícia Guardiola de Abreus
