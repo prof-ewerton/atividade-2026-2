@@ -6,4 +6,7 @@ João Marcelo Cruz Coelho
 Paulo Samuel Queiroz de Brito
 João Pedro Bento Severo
 Carlos Eduardo Azevedo de Souza Filho
-- Natália Dos Santos Nascimento
+Daniel Bezerra de Oliveira
+Maria Carolina Cabral de Almeida
+Murilo de Andrade Souza
+- Natália dos Santos Nascimento
