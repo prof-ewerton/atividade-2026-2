@@ -8,6 +8,6 @@ João Pedro Bento Severo
 Carlos Eduardo Azevedo de Souza Filho
 Daniel Bezerra de Oliveira
 Maria Carolina Cabral de Almeida
-
+Murilo de Andrade Souza
 
 
