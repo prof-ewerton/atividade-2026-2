@@ -4,5 +4,5 @@
 
 João Barreto Campello e Silva
 
-* Paulo Samuel Queiroz de Brito
+Paulo Samuel Queiroz de Brito
 
