@@ -17,4 +17,8 @@ Jamili Martins de Oliveira
 Jose Severo de Abreu Junior
 Lucas Albuquerque Teixeira
 Letícia Guardiola de Abreus
+<<<<<<< HEAD
 Mateus Aguiar Bezerra de Freitas
+=======
+Gustavo Vilela da Cruz
+>>>>>>> 2f54ba24c1f9a5b1337580fa93d839ff97c47260
