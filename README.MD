@@ -10,4 +10,10 @@ Carlos Eduardo Azevedo de Souza Filho
 Daniel Bezerra de Oliveira
 Maria Carolina Cabral de Almeida
 Murilo de Andrade Souza
+<<<<<<< HEAD
 Felipe Feliciano Lopes
+=======
+Natália dos Santos Nascimento
+Ediene Gomes de Lima
+
+>>>>>>> bb58b9a35b533bcd97e2b5b8243c9300c39c2e05
