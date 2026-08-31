@@ -18,3 +18,4 @@ Jose Severo de Abreu Junior
 Lucas Albuquerque Teixeira
 Letícia Guardiola de Abreus
 Gustavo Vilela da Cruz
+Mateus Aguiar Bezerra de Freitas
