@@ -1,1 +1,4 @@
 * Carlos
+* Paulo
+* Vinicyus
+* Daniel
