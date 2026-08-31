@@ -15,3 +15,5 @@ Natália dos Santos Nascimento
 Ediene Gomes de Lima
 Jamili Martins de Oliveira
 Jose Severo de Abreu Junior
+Lucas Albuquerque Teixeira
+
