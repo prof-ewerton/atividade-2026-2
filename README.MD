@@ -17,3 +17,4 @@ Jamili Martins de Oliveira
 Jose Severo de Abreu Junior
 Lucas Albuquerque Teixeira
 Letícia Guardiola de Abreus
+Mateus Aguiar Bezerra de Freitas
