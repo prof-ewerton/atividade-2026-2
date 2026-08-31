@@ -4,6 +4,7 @@ Mateus Montalvão Torres
 João Barreto Campello e Silva
 João Marcelo Cruz Coelho
 Paulo Samuel Queiroz de Brito
+Vinicyus Alves Pantaleão
 João Pedro Bento Severo
 Carlos Eduardo Azevedo de Souza Filho
 Daniel Bezerra de Oliveira
