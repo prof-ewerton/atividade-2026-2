@@ -1,1 +1,3 @@
-- João Marcelo Cruz Coelho
+* João Marcelo Cruz Coelho
+* Gustavo Vilela da Cruz
+
